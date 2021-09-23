@@ -1,6 +1,6 @@
 ### Salut l'ami (oui je me salut aussi au passage)  👋
 
-Présentation : 
+Présentation : <br>
 Je suis un <span>étudiant</span> en Développement Web, actuellement a la recherche d'une alternance a fin de poursuivre mes études.
 
 <!--
