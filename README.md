@@ -9,7 +9,7 @@
 💬 <b>A propos de moi </b>: 
 <ul>
   <li> J'habite à <b>Courbevoie</b>, à 5 mins de la Défense.
-  <li> Je viens de terminer un stage de <b>6 mois</b> dans une agence Web spécialiser dans le libre. </li>
+  <li> Je viens de terminer un stage de <b>6 mois</b> dans une agence Web spécialiser dans l'open-source. </li>
   <li> J'aime beaucoup le football, et le sports en général. </li>
 </ul>
 <h3>⚡Mes compétences </h3>
