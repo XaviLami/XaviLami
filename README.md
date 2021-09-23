@@ -1,4 +1,7 @@
-### Hi there 👋
+### Salut l'ami (oui je me salut aussi au passage)  👋
+
+Présentation : 
+Je suis un <span>étudiant</span> en Développement Web, actuellement a la recherche d'une alternance a fin de poursuivre mes études.
 
 <!--
 **XaviLami/XaviLami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/XaviLami/XaviLami/blob/main/img/Photo%20pp.png)
+
