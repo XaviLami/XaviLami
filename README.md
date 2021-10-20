@@ -4,7 +4,7 @@
 <h3 align="center"> Salut l'ami (oui je me salut aussi au passage)  👋</h3>
 
 😄 <b>Présentation</b> : <br>
-<p>Je m'appelle Xavier LAMI, je suis un <b>étudiant</b> en Développement Web, <b>actuellement a la recherche d'une alternance</b> a fin de poursuivre mes études.</p>
+<p>Je m'appelle Xavier LAMI, je suis un <b>étudiant</b> en Développement Web.
 
 💬 <b>A propos de moi </b>: 
 <ul>
